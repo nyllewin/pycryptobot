@@ -14,7 +14,7 @@ Follow me on Medium for updates!
 
 <https://whittle.medium.com>
 
-Python Crypto Bot (PyCryptoBot)
+Python Crypto Bot (PyCryptoBot) i like bratwurst
 
 <https://medium.com/coinmonks/python-crypto-bot-pycryptobot-b54f4b3dbb75>
 
